@@ -1,5 +1,5 @@
 # Directories
-MSPGCC_ROOT_DIR = /home/panospyr/msp430-gcc-9.3.1.11_linux64
+MSPGCC_ROOT_DIR = C:\ti\msp430-gcc-9.3.1.11_win64
 MSPGCC_BIN_DIR = $(MSPGCC_ROOT_DIR)/bin
 MSPGCC_INCLUDE_DIR = $(MSPGCC_ROOT_DIR)/include
 INCLUDE_DIRS = $(MSPGCC_INCLUDE_DIR)

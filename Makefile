@@ -10,7 +10,7 @@ BIN_DIR = $(BUILD_DIR)/bin
 #TI_CCS_DIR = /mnt/c/ti/ccs1220/ccs
 #DEBUG_BIN_DIR = $(TI_CCS_DIR)/css_base/DebugServer/bin
 #DEBUG_DRIVERS_DIR = $(TI_CCS_DIR)/css_base/DebugServer/drivers
-MSP_FLASHER = /mnt/c/ti/MSPFlasher/MSP430Flasher.exe
+MSP_FLASHER = C:\ti\MSPFlasher/MSP430Flasher.exe
 
 # Toolchain
 CC = $(MSPGCC_BIN_DIR)/msp430-elf-gcc
